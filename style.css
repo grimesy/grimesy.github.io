@@ -5,7 +5,6 @@
 .music {
     display:none;
 }
-
-,tiles {
-    display:normal;
+.tile {
+    display:inline;
 }
