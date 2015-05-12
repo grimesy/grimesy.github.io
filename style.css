@@ -2,3 +2,12 @@
     background-color: #979797;
     font-family:Verdana;
 }
+.soundcloud {
+    display:none;
+}
+.writing {
+    color:black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1.25px;
+    -webkit-text-stroke-color: black;
+}
